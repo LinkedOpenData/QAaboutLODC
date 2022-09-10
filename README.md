@@ -1,7 +1,7 @@
 # LODチャレンジQ＆A・情報交換ページ
 LODチャレンジに関するQ＆Aや情報交換のためのページです．  
 どなたでも自由に投稿いただけます．  
-※このページは，GitHubレポジトリ[https://linkedopendata.github.io/QAaboutLODC/](https://linkedopendata.github.io/QAaboutLODC/) のIssuesとして管理しています．
+※このページは，GitHubレポジトリ[https://github.com/LinkedOpenData/QAaboutLODC](https://github.com/LinkedOpenData/QAaboutLODC) のIssuesとして管理しています．
 
 ### 【[投稿一覧](https://github.com/LinkedOpenData/QAaboutLODC/issues)】 
 
